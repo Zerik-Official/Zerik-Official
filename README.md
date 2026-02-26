@@ -30,7 +30,7 @@ Currently studying Software Development and improving my English.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zerik-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zerik-Official&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zerik-Official&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" />
 </p>
 
 ---
