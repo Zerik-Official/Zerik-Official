@@ -28,7 +28,7 @@ Currently studying Software Development while continuously improving my technica
 
 ## Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
