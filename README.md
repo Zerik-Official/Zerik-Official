@@ -58,9 +58,9 @@ Currently studying Software Development while continuously improving my technica
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
-    <img alt="snake" src="./assets/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-snake-animation.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light-snake-animation.svg" />
+    <img alt="snake" src="./assets/light-snake-animation.svg" />
   </picture>
 </p>
 
