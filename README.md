@@ -54,6 +54,14 @@ Currently studying Software Development while continuously improving my technica
 
 ---
 
+## Languages Activity
+
+<p align="center">
+  <img src="./metrics.languages.svg" />
+</p>
+
+---
+
 ## Contributions
 
 <p align="center">
