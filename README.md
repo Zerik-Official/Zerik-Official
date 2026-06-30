@@ -1,48 +1,57 @@
-<h1 align="center">Zerik</h1>
+<h1 align="center">Hi :wave: I'm Andrés (Zerik)</h1>
+
 <p align="center">
-Andrés | Zerik • 19 y/o developer from Colombia 🇨🇴<br>
-Backend-oriented • Python enthusiast • Always building
+Backend Developer from Colombia<br>
+Passionate about Python, reverse engineering, automation and building reliable software.
 </p>
 
 ---
 
-## About
+## About Me
 
-Hi there 👋  
+I'm Andrés, better known online as **Zerik**.
 
-I'm Andrés, but most people online know me as Zerik.  
-I'm a 19-year-old developer from Colombia, backend-oriented and primarily working with Python.
+I'm a backend-oriented developer from Colombia focused on building clean, maintainable and scalable software. Most of my experience is with Python, but I also enjoy learning low-level programming, frontend technologies and software architecture.
 
-Currently studying Software Development while continuously improving my technical English.
+I'm currently studying Software Development while continuously improving my technical English and expanding my knowledge through personal projects.
 
 ---
 
 ## Currently
 
-- 📚 Learning: JavaScript and deeper web fundamentals.
-- 🛠 Working on: Personal backend projects and small web applications. I’m also developing automation tools and client-based API integrations for the company I work for.
-- 🧠 Improving: Clean code practices, architecture fundamentals, and problem-solving skills.
-- 🌎 Language: Strengthening my technical English.
+- :books: Learning **React** and **Reverse Engineering**
+- :snake: Building backend applications with **Python**
+- :gear: Developing automation tools and API integrations
+- :brain: Studying software architecture and clean code
+- :earth_americas: Improving my technical English
 
 ---
 
-## Stack
+## Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript">
+<img src="https://skillicons.dev/icons?i=python,lua,cpp,js,html,css" />
 </p>
 
----
+### Databases
 
-## Goals for 2026
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-- 🚀 Build at least 3 solid portfolio projects.  
-- 🧩 Contribute to open source.  
-- 💼 Land my first official developer role.  
-- 🏗 Learn backend architecture patterns in depth.
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,docker,vite" />
+</p>
 
 ---
 
@@ -51,6 +60,7 @@ Currently studying Software Development while continuously improving my technica
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zerik-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
+
 
 ---
 
@@ -62,14 +72,27 @@ Currently studying Software Development while continuously improving my technica
 
 ---
 
-## Contributions
+
+## Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-snake-animation.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light-snake-animation.svg" />
-    <img alt="snake" src="./assets/light-snake-animation.svg" />
-  </picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zerik-Official&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+## Contributions
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark-snake-animation.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light-snake-animation.svg"/>
+  <img alt="Snake animation" src="./assets/light-snake-animation.svg"/>
+</picture>
+</p>
+
+---
+
+<p align="center">
+<i>"Always learning, always building."</i>
+</p>
