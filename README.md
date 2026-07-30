@@ -32,7 +32,7 @@ I'm currently studying Software Development while continuously improving my tech
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,lua,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,lua,cpp,typescript,js,html,css" />
 </p>
 
 ### Databases
