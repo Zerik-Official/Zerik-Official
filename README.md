@@ -58,7 +58,7 @@ I'm currently studying Software Development while continuously improving my tech
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zerik-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Zerik-Official&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
