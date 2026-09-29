@@ -171,7 +171,5 @@ I'm currently studying Software Development while continuously improving my tech
 
 
 <p align="center">
-
-<i>"Always learning, always building."</i>
-
+  <i>"Always learning, always building."</i>
 </p>
