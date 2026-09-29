@@ -41,4 +41,4 @@ jobs:
             html, css, tex, less, dockerfile,
             makefile, cmake, shell
 
-          commits_authoring: Zerik, Andrés
+          commits_authoring: Zerik-Official
