@@ -90,7 +90,7 @@ I'm currently studying Software Development while continuously improving my tech
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,nextjs" />
 
 </p>
 
@@ -102,7 +102,7 @@ I'm currently studying Software Development while continuously improving my tech
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,docker,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,docker,nginx,vite" />
 
 </p>
 
