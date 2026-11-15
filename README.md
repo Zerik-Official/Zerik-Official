@@ -40,7 +40,7 @@ I'm currently studying Software Development while continuously improving my tech
 
 
 
-- :books: Learning **React** and **Reverse Engineering**
+- :books: Learning **Dart** and **Reverse Engineering**
 
 - :snake: Building backend applications with **Python**
 
