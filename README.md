@@ -116,11 +116,15 @@ I'm currently studying Software Development while continuously improving my tech
 
 
 
+
 <p align="center">
-
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Zerik-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="Zerik's GitHub Stats"
+  />
 </p>
+
 
 
 
